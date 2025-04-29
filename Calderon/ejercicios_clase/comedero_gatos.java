@@ -1,4 +1,4 @@
-package ejercicios_clase;
+/*package ejercicios_clase;
 
 import java.util.Scanner;
 
@@ -7,7 +7,7 @@ public class comedero_gatos {
 
         Scanner sc = new Scanner(System.in);
 
-        float peso_gato,cantidad_alimento;
+        float peso_gato, cantidad_alimento;
         int dias_alimentar;
 
         System.out.println("Ingresa el peso del gato");
@@ -18,4 +18,4 @@ public class comedero_gatos {
         
 
     }
-}
+}*/
